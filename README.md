@@ -1,2 +1,2 @@
 # boilerplate-react-functional-public
-Render eract component Question no. 1
+Render react component Question no. 1
